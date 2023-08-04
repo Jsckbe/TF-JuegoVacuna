@@ -1,0 +1,27 @@
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.vcxproj.AssemblyReference.cache
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.FrmMainMenu.resources
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.vcxproj.GenerateResource.cache
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.FrmInstructions.resources
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.FrmLvl1.resources
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.FrmWin.resources
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.FrmLose.resources
+C:\Users\gqnz0\source\repos\c++\TFG1\TFG1\x64\Debug\TFG1.FrmLvl2.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.vcxproj.AssemblyReference.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.vcxproj.SuggestedBindingRedirects.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.FrmInstructions.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.FrmLose.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.FrmLvl1.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.FrmLvl2.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.FrmMainMenu.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.FrmWin.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\trabajos grupal\1_Semana14-TB Final\Tb final\TF_version3\1\TFG1\TFG1\x64\Debug\TFG1.vcxproj.GenerateResource.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.vcxproj.AssemblyReference.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.vcxproj.SuggestedBindingRedirects.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.FrmInstructions.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.FrmLose.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.FrmLvl1.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.FrmLvl2.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.FrmMainMenu.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.FrmWin.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\x64\Debug\TFG1.vcxproj.GenerateResource.cache

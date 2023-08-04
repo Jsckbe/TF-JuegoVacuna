@@ -1,0 +1,33 @@
+﻿  FrmLose.cpp
+  FrmLvl1.cpp
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(25,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(25,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(34,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(34,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(14,1): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(48,25): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(49,25): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Controller.h(170,21): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\FrmLvl1.h(185,24): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  FrmLvl2.cpp
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(25,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(25,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(34,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(34,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(14,1): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(48,25): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(49,25): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Controller.h(170,21): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  FrmMainMenu.cpp
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(25,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(25,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(34,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Entity.h(34,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(14,1): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(48,25): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Vaccine.h(49,25): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\Controller.h(170,21): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\TFG1\FrmLvl1.h(185,24): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  Generando código...
+  FrmInstructions.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TFG1.vcxproj -> D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\1.TF\1\TFG1\x64\Debug\TFG1.exe
